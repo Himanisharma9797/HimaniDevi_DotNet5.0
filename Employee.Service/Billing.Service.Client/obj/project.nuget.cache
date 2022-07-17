@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HWu9nB2tCJtcNLFzitrQA+qogZ5rxe7JAgVNIqkh8BKQWPck0Ve/Ur7HtwM7Qq3xjrstN0anz0NNT4mzJusYeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\himani.devi\\source\\repos\\Employee.Service\\Billing.Service.Client\\Billing.Service.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\himani.devi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

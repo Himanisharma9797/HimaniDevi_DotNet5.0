@@ -1,0 +1,15 @@
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\bin\Debug\net5.0\Employee.Service.API.deps.json
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\bin\Debug\net5.0\Employee.Service.API.runtimeconfig.json
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\bin\Debug\net5.0\Employee.Service.API.runtimeconfig.dev.json
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\bin\Debug\net5.0\Employee.Service.API.dll
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\bin\Debug\net5.0\ref\Employee.Service.API.dll
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\bin\Debug\net5.0\Employee.Service.API.pdb
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\obj\Debug\net5.0\Employee.Service.API.csproj.AssemblyReference.cache
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\obj\Debug\net5.0\Employee.Service.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\obj\Debug\net5.0\Employee.Service.API.AssemblyInfoInputs.cache
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\obj\Debug\net5.0\Employee.Service.API.AssemblyInfo.cs
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\obj\Debug\net5.0\Employee.Service.API.csproj.CoreCompileInputs.cache
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\obj\Debug\net5.0\Employee.Service.API.dll
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\obj\Debug\net5.0\ref\Employee.Service.API.dll
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\obj\Debug\net5.0\Employee.Service.API.pdb
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.API\obj\Debug\net5.0\Employee.Service.API.genruntimeconfig.cache

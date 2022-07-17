@@ -1,0 +1,15 @@
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\bin\Debug\net5.0\Employee.Service.Logic.Common.deps.json
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\bin\Debug\net5.0\Employee.Service.Logic.Common.dll
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\bin\Debug\net5.0\ref\Employee.Service.Logic.Common.dll
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\bin\Debug\net5.0\Employee.Service.Logic.Common.pdb
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\bin\Debug\net5.0\Employee.Service.API.dll
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\bin\Debug\net5.0\Employee.Service.API.pdb
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\obj\Debug\net5.0\Employee.Service.Logic.Common.csproj.AssemblyReference.cache
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\obj\Debug\net5.0\Employee.Service.Logic.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\obj\Debug\net5.0\Employee.Service.Logic.Common.AssemblyInfoInputs.cache
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\obj\Debug\net5.0\Employee.Service.Logic.Common.AssemblyInfo.cs
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\obj\Debug\net5.0\Employee.Service.Logic.Common.csproj.CoreCompileInputs.cache
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\obj\Debug\net5.0\Employee.Service.Logic.Common.csproj.CopyComplete
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\obj\Debug\net5.0\Employee.Service.Logic.Common.dll
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\obj\Debug\net5.0\ref\Employee.Service.Logic.Common.dll
+C:\Users\himani.devi\source\repos\Employee.Service\Employee.Service.Logic.Common\obj\Debug\net5.0\Employee.Service.Logic.Common.pdb
